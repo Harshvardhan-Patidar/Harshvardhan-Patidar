@@ -10,7 +10,7 @@ A motivated, adaptable and responsible computer user seeking a position in an IT
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harshvardhan-Patidar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan-Patidar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-Patidar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-Patidar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harshvardhan-Patidar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
