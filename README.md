@@ -1,5 +1,5 @@
 # 💫 About Me:-
-A motivated and responsible computer user seeking a position in an IT career which will utilize the professional and technical<br>skills developed. Customer-focused approach to work and strong drive to see things through completion. Keeping myself up to date with<br>latest technologies. Passionate towards full stack web development currently Mern developer. I have ability to learn new technologies quickly.
+A motivated and responsible computer user seeking a position in an IT career which will utilize the professional and technical<br>skills developed. Customer-focused approach to work and strong drive to see things through completion. Keeping myself up to date with<br>latest technologies. Passionate towards full stack web development currently Mern developer. I have ability to learn new technologies quickly. 
 
 
 ## 🌐 Socials:
