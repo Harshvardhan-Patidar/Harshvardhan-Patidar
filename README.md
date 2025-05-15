@@ -1,5 +1,11 @@
 # 💫 About Me
 I'm Harshvardhan Patidar, a driven and adaptable Full Stack Developer with hands-on experience in **MERN stack**, real-time projects, and cloud-based solutions. I bring a customer-focused mindset, fast learning abilities, and strong collaborative skills developed through impactful internships and volunteering. I'm passionate about creating solutions that enhance usability, performance, and innovation.
+ 
+<h3 align="center">🚀 Java Full Stack Developer | C++ & DSA Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Code.+Debug.+Optimize.+Repeat.;Bridging+Logic+with+Innovation.;Crafting+Scalable+Solutions.">
+</p>
 
 ---
 
