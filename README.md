@@ -41,25 +41,20 @@ I'm Harshvardhan Patidar, a driven and adaptable Full Stack Developer with hands
 
 ## 📚 Internships
 
-- **Frontend Intern – Indore Municipal Corporation (Apr–Jun 2023)**
-  - Reduced load time by 50% through optimization techniques.
-  - Modernized layout and boosted usability by 10%.
-  
-- **Web Dev Intern – Techno Hacks EduTech (Mar–Apr 2024)**  
-  - Delivered 3 live web projects with presentations.
-  - Enhanced front and back-end integration for seamless UX.
-
-- **Intern – CrystalTech Pvt Ltd (Jan–Feb 2024)**  
-  - Revamped web pages using HTML and Bootstrap.
-  - Delivered maintainable documentation and improved UI by 20%.
+| Company | Role | Duration |
+|--------|------|----------|
+| 🏛️ Indore Municipal Corp | Frontend Intern | Apr–Jun 2023 |
+| 📘 Techno Hacks EduTech | Web Dev Intern | Mar–Apr 2024 |
+| 💼 CrystalTech Pvt Ltd | Web Design Intern | Jan–Feb 2024 |
 
 ---
 
 ## 🎖️ Achievements
 
-- 🛡️ **IoT Project Recognition** — 10/10 university score and funding received.
-- 📢 **DevOps Lead** — Organized expert session with 200+ attendees.
-- 👨‍🎓 **Campus Ambassador (DevTown)** — Represented DAVV for tech events.
+- 🏆 **IoT Project**: University top scorer & funded
+- 🎤 **DevOps Lead**: Hosted offline tech session (200+ attendees)
+- 🌟 **HackHive Lead**: Managed 36hr hackathon (300+ teams)
+- 🚀 **Campus Ambassador @ DevTown**
 
 ---
 
