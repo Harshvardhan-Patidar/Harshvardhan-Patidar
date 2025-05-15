@@ -1,5 +1,26 @@
 # 💫 About Me
-I'm Harshvardhan Patidar, a driven and adaptable Full Stack Developer with hands-on experience in **MERN stack**, real-time projects, and cloud-based solutions. I bring a customer-focused mindset, fast learning abilities, and strong collaborative skills developed through impactful internships and volunteering. I'm passionate about creating solutions that enhance usability, performance, and innovation.
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/48/code.png" alt="developer"/></td>
+    <td><b>Full Stack Developer</b> with real-world MERN experience from multiple internships</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/48/rocket.png" alt="quick learner"/></td>
+    <td><b>Fast learner</b> constantly picking up new technologies and applying them in projects</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/collaboration.png" alt="teamwork"/></td>
+    <td>Great <b>collaborator</b>, with leadership roles in Hackathons and tech events</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="explore"/></td>
+    <td>Currently exploring <b>AI, DevOps, and scalable architectures</b></td>
+  </tr>
+</table>
+
+
+
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Code.+Debug.+Optimize.+Repeat.;Bridging+Logic+with+Innovation.;Crafting+Scalable+Solutions.">
